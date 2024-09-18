@@ -18,8 +18,9 @@ A curated list of awesome video anomaly detection papers.
 2. `CVPR2024` [OVVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf): Open-Vocabulary Video Anomaly Detection
 
 #### Large Language Models
-1. `CVPR2024` [LAVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf): Harnessing Large Language Models for Training-free Video Anomaly Detection. [Project Page](https://lucazanella.github.io/lavad/), [Code](https://github.com/lucazanella/lavad)
-2. `arxiv2024` [Holmes-VAD](https://arxiv.org/pdf/2406.12235): Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM. [Project Page](https://holmesvad.github.io/), [Code](https://github.com/pipixin321/HolmesVAD)
+1. `ECCV2024` [AnomalyRuler](https://arxiv.org/pdf/2407.10299): Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models. [Code](https://github.com/Yuchen413/AnomalyRuler)
+2. `CVPR2024` [LAVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf): Harnessing Large Language Models for Training-free Video Anomaly Detection. [Project Page](https://lucazanella.github.io/lavad/), [Code](https://github.com/lucazanella/lavad)
+3. `arxiv2024` [Holmes-VAD](https://arxiv.org/pdf/2406.12235): Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM. [Project Page](https://holmesvad.github.io/), [Code](https://github.com/pipixin321/HolmesVAD)
 
 
 ## Weakly-Supervised
