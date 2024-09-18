@@ -1,6 +1,8 @@
 # Awesome Video Anomaly Detection
 A curated list of awesome video anomaly detection papers.
 
+
+
 #### Normalizing Flows
 1. `ICCV2023` [STG-NF](https://openaccess.thecvf.com/content/ICCV2023/papers/Hirschorn_Normalizing_Flows_for_Human_Pose_Anomaly_Detection_ICCV_2023_paper.pdf): Normalizing Flows for Human Pose Anomaly Detection. [Code](https://github.com/orhir/STG-NF)
 
@@ -14,6 +16,7 @@ A curated list of awesome video anomaly detection papers.
 #### Vision Language Models
 1. `AAAI2024` [VadCLIP](https://arxiv.org/pdf/2308.11681): Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection. [Code](https://github.com/nwpu-zxr/VadCLIP)
 2. `CVPR2024` [OVVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf): Open-Vocabulary Video Anomaly Detection
+3. `CVPR2024` [TPWNG](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf): Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection. 
 
 #### Large Language Models
 1. `ECCV2024` [AnomalyRuler](https://arxiv.org/pdf/2407.10299): Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models. [Code](https://github.com/Yuchen413/AnomalyRuler)
