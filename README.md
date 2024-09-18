@@ -1,8 +1,6 @@
 # Awesome Video Anomaly Detection
 A curated list of awesome video anomaly detection papers.
 
-## Unsupervised
-
 #### Normalizing Flows
 1. `ICCV2023` [STG-NF](https://openaccess.thecvf.com/content/ICCV2023/papers/Hirschorn_Normalizing_Flows_for_Human_Pose_Anomaly_Detection_ICCV_2023_paper.pdf): Normalizing Flows for Human Pose Anomaly Detection. [Code](https://github.com/orhir/STG-NF)
 
@@ -23,6 +21,3 @@ A curated list of awesome video anomaly detection papers.
 3. `arxiv2024` [Holmes-VAD](https://arxiv.org/pdf/2406.12235): Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM. [Project Page](https://holmesvad.github.io/), [Code](https://github.com/pipixin321/HolmesVAD)
 
 
-## Weakly-Supervised
-
-## Supervised
