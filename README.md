@@ -8,7 +8,7 @@ A curated list of awesome video anomaly detection papers.
 
 #### Score-Based Models
 1. `CVPR2024` [MULDE](https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf): Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection. [Code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection)
-2.  `ICCV2024` [MoCoDAD](https://openaccess.thecvf.com/content/ICCV2023/papers/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.pdf): Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection. [Code](https://github.com/aleflabo/MoCoDAD)
+2.  `ICCV2023` [MoCoDAD](https://openaccess.thecvf.com/content/ICCV2023/papers/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.pdf): Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection. [Code](https://github.com/aleflabo/MoCoDAD)
 
 #### Masked Modeling
 1. `CVPR2024` [AED-MAE](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf): Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors. [Code](https://github.com/ristea/aed-mae/tree/main)
